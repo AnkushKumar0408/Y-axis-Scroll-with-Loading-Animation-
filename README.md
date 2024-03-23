@@ -6,4 +6,6 @@ This is an amazing affect which is created using function and scrollTrigger by G
 
 The effects are page scroll in Y-axis and a loading animation before the main content comes.
 
+When the content scroll in y-axis font family is decreased.
+
 I used HTML, CSS and GSAP(library of JavaScript).
